@@ -1,13 +1,19 @@
 # Google_colab_basics
 Leaning to use google Colab to analyze data
 This exercise aims to find a model to predict the per capita state and local public expenditures for different states.  This data is from 1960.  The variables are as follows.
- ● EX: Per capita state and local public expenditures ($)
- ● ECAB: Economic ability index, in which income, retail sales, and output val(manufactures, mineral, and agricultural) per capita are equally weighted.
- ● MET: Percentage of population living in standard metropolitan areas
- ● GROW: Percent change in population, 1950-1960
- ● YOUNG: Percent of population aged 5-19 years
- ● OLD: Percent of population over 65 years of age
- ● WEST: Western state (1) or not (0)
+ 
+● EX: Per capita state and local public expenditures ($)
+
+● ECAB: Economic ability index, in which income, retail sales, and output val(manufactures, mineral, and agricultural) per capita are equally weighted.
+● MET: Percentage of population living in standard metropolitan areas
+
+● GROW: Percent change in population, 1950-1960
+
+● YOUNG: Percent of population aged 5-19 years
+
+● OLD: Percent of population over 65 years of age
+
+● WEST: Western state (1) or not (0)
 
 Conduct your analysis following the steps below, and you are expected to write an analysis report containing all the results.
  
